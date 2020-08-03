@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24512414-e734-4244-b893-547db6a7b9b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1ez2C7n7lHYxcZv2iD43Dai56xj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin for Java Developers. Week 41" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1596438482088" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.All in Games-Task">
+    <configuration name="All in Games-Task" type="AndroidJUnit" factoryName="Android JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameOfFifteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.gameOfFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.gameOfFifteen" />
+      <option name="MAIN_CLASS_NAME" value="games.gameOfFifteen.TestGameOfFifteen" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMoveValuesInRowOrColumn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.game2048.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.game2048" />
+      <option name="MAIN_CLASS_NAME" value="games.game2048.TestMoveValuesInRowOrColumn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquareBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="games.board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="games.board" />
+      <option name="MAIN_CLASS_NAME" value="games.board.TestSquareBoard" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayGame2048Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="games.ui.PlayGame2048Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayGameOfFifteenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Games-Task" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="games.ui.PlayGameOfFifteenKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.All in Games-Task" />
+        <item itemvalue="Kotlin.PlayGameOfFifteenKt" />
+        <item itemvalue="Kotlin.PlayGame2048Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24512414-e734-4244-b893-547db6a7b9b9" name="Default Changelist" comment="" />
+      <created>1595309970316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595309970316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="147" width="1000" height="837" key="#Project_Structure" timestamp="1595310064099">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="345" y="147" width="1000" height="837" key="#Project_Structure/0.36.1920.1044@0.36.1920.1044" timestamp="1595310064099" />
+    <state x="-170" y="296" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596096641926">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="-170" y="296" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1596096641926" />
+    <state x="680" y="209" width="549" height="693" key="#com.intellij.ide.util.MemberChooser" timestamp="1596086705337">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="680" y="209" width="549" height="693" key="#com.intellij.ide.util.MemberChooser/0.36.1920.1044@0.36.1920.1044" timestamp="1596086705337" />
+    <state x="100" y="136" width="1720" height="844" key="DiffContextDialog" timestamp="1595341199169">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="100" y="136" width="1720" height="844" key="DiffContextDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1595341199169" />
+    <state x="690" y="259" width="530" height="596" key="FileChooserDialogImpl" timestamp="1595748825584">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="690" y="259" width="530" height="596" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1595748825584" />
+    <state width="1856" height="329" key="GridCell.Tab.0.bottom" timestamp="1596438498490">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1856" height="329" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1596438498490" />
+    <state width="1856" height="329" key="GridCell.Tab.0.center" timestamp="1596438498490">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1856" height="329" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1596438498490" />
+    <state width="1856" height="329" key="GridCell.Tab.0.left" timestamp="1596438498489">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1856" height="329" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1596438498489" />
+    <state width="1856" height="329" key="GridCell.Tab.0.right" timestamp="1596438498490">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1856" height="329" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1596438498490" />
+    <state x="534" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1595826461326">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="534" y="347" key="com.intellij.ide.util.TipDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1595826461326" />
+    <state x="642" y="128" width="626" height="857" key="refactoring.ChangeSignatureDialog" timestamp="1596093571004">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="642" y="128" width="626" height="857" key="refactoring.ChangeSignatureDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1596093571004" />
+  </component>
+</project>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264ae1d6-a75d-4178-9178-232f42105f6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1docO50qfeMnvfcskn6G6Fo4xZo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin for Java Developers. Week 32" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1596123941164" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Taxi Park/Task/src/taxipark" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.All in Taxi_Park-Task">
+    <configuration name="All in Nice_String-Task" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nice_String-Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Taxi_Park-Task" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Taxi_Park-Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNiceString" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nice_String-Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nicestring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nicestring" />
+      <option name="MAIN_CLASS_NAME" value="nicestring.TestNiceString" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.All in Taxi_Park-Task" />
+        <item itemvalue="Android JUnit.All in Nice_String-Task" />
+        <item itemvalue="Android JUnit.TestNiceString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264ae1d6-a75d-4178-9178-232f42105f6f" name="Default Changelist" comment="" />
+      <created>1593094851395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593094851395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="259" width="530" height="596" key="FileChooserDialogImpl" timestamp="1596124077920">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="690" y="259" width="530" height="596" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1596124077920" />
+    <state width="1856" height="317" key="GridCell.Tab.0.bottom" timestamp="1596124133304">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1920" height="332" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1593099118875" />
+    <state width="1856" height="317" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1596124133304" />
+    <state width="1856" height="317" key="GridCell.Tab.0.center" timestamp="1596124133304">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1920" height="332" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1593099118874" />
+    <state width="1856" height="317" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1596124133304" />
+    <state width="1856" height="317" key="GridCell.Tab.0.left" timestamp="1596124133304">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1920" height="332" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1593099118874" />
+    <state width="1856" height="317" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1596124133304" />
+    <state width="1856" height="317" key="GridCell.Tab.0.right" timestamp="1596124133304">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1920" height="332" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1593099118875" />
+    <state width="1856" height="317" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1596124133304" />
+    <state x="550" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1593180211450">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="550" y="343" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1593180211450" />
+    <state x="560" y="135" width="790" height="840" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593098712734">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="560" y="135" width="790" height="840" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1920.1052@0.28.1920.1052" timestamp="1593098712734" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin_for_Java_Developers__Week_3$TestNiceString.ic" NAME="TestNiceString Coverage Results" MODIFIED="1593097578190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>nicestring.*</FILTER>
+    </SUITE>
+  </component>
+</project>
